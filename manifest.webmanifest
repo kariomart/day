@@ -1,0 +1,13 @@
+{
+  "name": "Day",
+  "short_name": "Day",
+  "description": "Your day as one timeline, with your task lists underneath.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2c2c2e",
+  "theme_color": "#2c2c2e",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
